@@ -7,7 +7,7 @@ from util.boost_pad_tracker import BoostPadTracker
 from util.drive import steer_toward_target
 from util.sequence import Sequence, ControlStep
 from util.vec import Vec3
-from car_movements import begin_front_flip, begin_back_flip, begin_side_flip_left, begin_side_flip_right
+from car_movements import begin_front_flip, begin_back_flip, begin_side_flip_left, begin_side_flip_right, begin_diagonal_flip_forwards_right, begin_diagonal_flip_forwards_left, begin_diagonal_flip_backwards_right, begin_diagonal_flip_backwards_left
 
 
 
